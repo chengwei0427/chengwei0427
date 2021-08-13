@@ -3,9 +3,7 @@
 
 ### Hi there 👋
 
-**chengwei0427/chengwei0427** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+This is the place where I opensource stuff and break things
 
 - 🔭 I’m currently working on SLAM.
 - 🌱 I’m currently learning Lidar & Visual SLAM.
