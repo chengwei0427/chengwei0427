@@ -3,7 +3,6 @@
 
 ### Hi there 👋
 
-<!--
 **chengwei0427/chengwei0427** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -16,4 +15,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 960732491@qq.com.
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
