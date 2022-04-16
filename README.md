@@ -7,8 +7,8 @@ This is the place where I opensource stuff and break things
 
 - 🔭 I’m currently working on SLAM.
 - 🌱 I’m currently learning Lidar & Visual SLAM.
-- 👯 I’m looking to collaborate on 2D & 3D SLAM.
-- 🤔 I’m looking for help with AMR 2D & 3D SLAM.
+- 👯 I’m looking to collaborate on 2D & 3D Lidar SLAM.
+- 🤔 I’m looking for help with AMR 2D & 3D Lidar SLAM.
 - 💬 Ask me about Lidar SLAM.
 - 📫 How to reach me: 960732491@qq.com.
 - 😄 Pronouns: ...
