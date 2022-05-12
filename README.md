@@ -1,14 +1,4 @@
-### Hi there 👋
-
-This is the place where I opensource stuff and break things
-
-- 🔭 I’m currently working on SLAM.
-- 🌱 I’m currently learning Lidar.
-- 👯 I’m looking to collaborate on 2D & 3D Lidar SLAM.
-- 🤔 I’m looking for help with AMR 2D & 3D Lidar SLAM.
-- 💬 Ask me about Lidar SLAM.
-- 📫 How to reach me: 960732491@qq.com.
-
+### chengwei
 
 [![GitHub](https://img.shields.io/github/followers/chengwei0427?label=follow&style=social)](https://github.com/chengwei0427)
 
