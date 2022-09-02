@@ -1,6 +1,9 @@
 ### chengwei
 
-[![GitHub](https://img.shields.io/github/followers/chengwei0427?label=follow&style=social)](https://github.com/chengwei0427) <!--   ![Profile views](https://gpvc.arturio.dev/chengwei0427)-->  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=chengwei0427)
+[![GitHub](https://img.shields.io/github/followers/chengwei0427?label=follow&style=social)](https://github.com/chengwei0427)  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=chengwei0427)
+[![](https://img.shields.io/badge/Bilibili-chengwei0019-brightgreen)](https://space.bilibili.com/38956861/video)
+[![](https://img.shields.io/badge/Email-960732491%40qq.com-blue)](mailto:960732491@qq.com) 
+<!--   ![Profile views](https://gpvc.arturio.dev/chengwei0427)--> 
 
 <!--Visitors:
 
