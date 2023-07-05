@@ -1,8 +1,9 @@
 ### Hi, 👋 I'm Zhao Chengwei
 **About me:**
 
-- 🏫 A autonomous driving practitioners at HangZhou.
+- 🏫 An autonomous driving practitioners in HangZhou.
 - ❤️ I’m currently working on 2d/3d laser SLAM.
+- 👯 I’m looking to collaborate on laser mapping and localization.
 
 <a href="https://www.zhihu.com/people/chengwei-64"><img src="https://storage.live.com/items/B149F35319CAD365!2132?authkey=ANFgi5h3UzMEHv8" alt="知乎" width = "20"></a>
 <a href="https://blog.csdn.net/u012700322?spm=1000.2115.3001.5343"><img src="https://storage.live.com/items/B149F35319CAD365!2133?authkey=ANFgi5h3UzMEHv8" alt="CSDN" width = "20"></a>
