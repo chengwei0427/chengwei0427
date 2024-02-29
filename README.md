@@ -15,9 +15,9 @@
 
 <!--[![GitHub](https://img.shields.io/github/followers/chengwei0427?label=follow&style=social)](https://github.com/chengwei0427)-->  
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=chengwei0427)
-[![](https://img.shields.io/badge/Bilibili-chengwei0019-brightgreen)](https://space.bilibili.com/38956861/video)
+[![](https://img.shields.io/badge/Bilibili-brightgreen)](https://space.bilibili.com/38956861/video)
 [![CV](http://img.shields.io/badge/-CV-black?style=flat-square&logo=github&link=https://davinci-ai.tistory.com/)](https://github.com/chengwei0427/chengwei0427/blob/main/cv.pdf)
-[![](https://img.shields.io/badge/Homepage-chengwei--zhao-blue?style=flat-square&labelColor=491F59&logo=homebridge&logoColor=white)](https://chengwei0427.github.io)
+[![](https://img.shields.io/badge/Homepage-chengwei-blue?style=flat-square&labelColor=491F59&logo=homebridge&logoColor=white)](https://chengwei0427.github.io)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chengweizhao0427@gmail.com)](mailto:chengweizhao0427@gmail.com)
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCGtHKvwOFQJCQPSuZndJQPQ)](https://www.youtube.com/@chengweizhao7299)
 
