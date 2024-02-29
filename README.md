@@ -6,7 +6,7 @@
 - ❤️ I’m currently working on 3d LiDAR SLAM.
 - 🌱 I’m looking to collaborate on laser mapping and localization.
 - 💬 Ask me about robot state estimation involved in slam.
-- 📫 How to reach me: 960732491@qq.com. <img src="https://media.giphy.com/media/WrlVBo6lEJEVA8EJOs/giphy.gif" height="20">
+- 📫 How to reach me: chengweizhao0427@gmail.com. <img src="https://media.giphy.com/media/WrlVBo6lEJEVA8EJOs/giphy.gif" height="20">
 
 
 
