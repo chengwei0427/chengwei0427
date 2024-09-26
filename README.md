@@ -21,7 +21,7 @@
 [![CV](http://img.shields.io/badge/-CV-black?style=flat-square&logo=github&link=https://davinci-ai.tistory.com/)](https://github.com/chengwei0427/chengwei0427/blob/main/cv.pdf)
 [![](https://img.shields.io/badge/Homepage-chengwei-blue?style=flat-square&labelColor=491F59&logo=homebridge&logoColor=white)](https://chengwei0427.github.io)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chengweizhao0427@gmail.com)](mailto:chengweizhao0427@gmail.com)
-[![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCGtHKvwOFQJCQPSuZndJQPQ)](https://www.youtube.com/@chengweizhao7299)
+<!--[![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCGtHKvwOFQJCQPSuZndJQPQ)](https://www.youtube.com/@chengweizhao7299)-->
 
 <!--[![](https://img.shields.io/badge/Email-960732491%40qq.com-blue)](mailto:960732491@qq.com) -->
 <!--   ![Profile views](https://gpvc.arturio.dev/chengwei0427)--> 
